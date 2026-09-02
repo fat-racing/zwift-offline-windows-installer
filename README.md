@@ -1,0 +1,1 @@
+# zwift-offline-windows-installer
