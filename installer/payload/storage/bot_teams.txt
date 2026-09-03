@@ -1,0 +1,3753 @@
+{
+  "riders": [
+    {
+      "country_code": 705,
+      "is_male": true,
+      "first_name": "Tadej",
+      "last_name": "Poga\u010dar (UAD)",
+      "ride_jersey": 1751349769,
+      "bike_frame": 3628259811,
+      "bike_wheel_front": 2223270801,
+      "bike_wheel_rear": 3835575171
+    },
+    {
+      "country_code": 56,
+      "is_male": true,
+      "first_name": "Remco",
+      "last_name": "Evenepoel (SOQ)",
+      "ride_jersey": 2906189156,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 2181416413,
+      "bike_wheel_rear": 3548735686,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 56,
+      "is_male": true,
+      "first_name": "Wout",
+      "last_name": "van Aert (TJV)",
+      "ride_jersey": 88214615,
+      "bike_frame": 106535518,
+      "bike_wheel_front": 635220876,
+      "bike_wheel_rear": 1842698274,
+      "ride_helmet_type": 1292376041
+    },
+    {
+      "country_code": 208,
+      "is_male": true,
+      "first_name": "Jonas",
+      "last_name": "Vingegaard (TJV)",
+      "ride_jersey": 88214615,
+      "bike_frame": 106535518,
+      "bike_wheel_front": 635220876,
+      "bike_wheel_rear": 1842698274,
+      "ride_helmet_type": 1292376041
+    },
+    {
+      "country_code": 56,
+      "is_male": true,
+      "first_name": "Jasper",
+      "last_name": "Philipsen (ADC)",
+      "ride_jersey": 930946828,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 1387973863
+    },
+    {
+      "country_code": 705,
+      "is_male": true,
+      "first_name": "Primo\u017e",
+      "last_name": "Rogli\u010d (TJV)",
+      "ride_jersey": 88214615,
+      "bike_frame": 106535518,
+      "bike_wheel_front": 635220876,
+      "bike_wheel_rear": 1842698274,
+      "ride_helmet_type": 1292376041
+    },
+    {
+      "country_code": 208,
+      "is_male": true,
+      "first_name": "Mads",
+      "last_name": "Pedersen (TRK)",
+      "ride_jersey": 2140478849,
+      "bike_frame": 4129467727,
+      "bike_wheel_front": 702195190,
+      "bike_wheel_rear": 3594144634
+    },
+    {
+      "country_code": 208,
+      "is_male": true,
+      "first_name": "Mattias",
+      "last_name": "Skjelmose (TRK)",
+      "ride_jersey": 2140478849,
+      "bike_frame": 4129467727,
+      "bike_wheel_front": 702195190,
+      "bike_wheel_rear": 3594144634
+    },
+    {
+      "country_code": 826,
+      "is_male": true,
+      "first_name": "Adam",
+      "last_name": "Yates (UAD)",
+      "ride_jersey": 1751349769,
+      "bike_frame": 3628259811,
+      "bike_wheel_front": 2223270801,
+      "bike_wheel_rear": 3835575171
+    },
+    {
+      "country_code": 250,
+      "is_male": true,
+      "first_name": "Christophe",
+      "last_name": "Laporte (TJV)",
+      "ride_jersey": 88214615,
+      "bike_frame": 106535518,
+      "bike_wheel_front": 635220876,
+      "bike_wheel_rear": 1842698274,
+      "ride_helmet_type": 1292376041
+    },
+    {
+      "country_code": 724,
+      "is_male": true,
+      "first_name": "Enric",
+      "last_name": "Mas (MOV)",
+      "ride_jersey": 1842355135,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 4241132751
+    },
+    {
+      "country_code": 620,
+      "is_male": true,
+      "first_name": "Jo\u00e3o",
+      "last_name": "Almeida (UAD)",
+      "ride_jersey": 1751349769,
+      "bike_frame": 3628259811,
+      "bike_wheel_front": 2223270801,
+      "bike_wheel_rear": 3835575171
+    },
+    {
+      "country_code": 528,
+      "is_male": true,
+      "first_name": "Mathieu",
+      "last_name": "van der Poel (ADC)",
+      "ride_jersey": 930946828,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 1387973863
+    },
+    {
+      "country_code": 56,
+      "is_male": true,
+      "first_name": "Arnaud",
+      "last_name": "De Lie (LTD)",
+      "ride_jersey": 4130579852,
+      "bike_frame": 4288910569,
+      "bike_wheel_front": 346409677,
+      "bike_wheel_rear": 2049111692
+    },
+    {
+      "country_code": 840,
+      "is_male": true,
+      "first_name": "Neilson",
+      "last_name": "Powless (EFE)",
+      "ride_jersey": 2349035663,
+      "bike_frame": 2005280203,
+      "bike_wheel_front": 1791179228,
+      "bike_wheel_rear": 2913819265,
+      "ride_helmet_type": 3707571564
+    },
+    {
+      "country_code": 826,
+      "is_male": true,
+      "first_name": "Thomas",
+      "last_name": "Pidcock (IGD)",
+      "ride_jersey": 542207259,
+      "bike_frame": 4208139356,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 3438211262
+    },
+    {
+      "country_code": 250,
+      "is_male": true,
+      "first_name": "Thibaut",
+      "last_name": "Pinot (GFC)",
+      "ride_jersey": 2814449542,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 3912703277
+    },
+    {
+      "country_code": 250,
+      "is_male": true,
+      "first_name": "David",
+      "last_name": "Gaudu (GFC)",
+      "ride_jersey": 2814449542,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 3912703277
+    },
+    {
+      "country_code": 528,
+      "is_male": true,
+      "first_name": "Olav",
+      "last_name": "Kooij (TJV)",
+      "ride_jersey": 88214615,
+      "bike_frame": 106535518,
+      "bike_wheel_front": 635220876,
+      "bike_wheel_rear": 1842698274,
+      "ride_helmet_type": 1292376041
+    },
+    {
+      "country_code": 826,
+      "is_male": true,
+      "first_name": "Geraint",
+      "last_name": "Thomas (IGD)",
+      "ride_jersey": 542207259,
+      "bike_frame": 4208139356,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 3438211262
+    },
+    {
+      "country_code": 724,
+      "is_male": true,
+      "first_name": "Mikel",
+      "last_name": "Landa (TBV)",
+      "ride_jersey": 2155858980,
+      "bike_frame": 3033010663
+    },
+    {
+      "country_code": 250,
+      "is_male": true,
+      "first_name": "Romain",
+      "last_name": "Bardet (DSM)",
+      "ride_jersey": 2695025247,
+      "bike_frame": 1315158373,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 36,
+      "is_male": true,
+      "first_name": "Michael",
+      "last_name": "Matthews (JAY)",
+      "ride_jersey": 493134166,
+      "bike_frame": 103914490,
+      "bike_wheel_front": 1497226614,
+      "bike_wheel_rear": 1347687916
+    },
+    {
+      "country_code": 528,
+      "is_male": true,
+      "first_name": "Dylan",
+      "last_name": "Groenewegen (JAY)",
+      "ride_jersey": 493134166,
+      "bike_frame": 103914490,
+      "bike_wheel_front": 1497226614,
+      "bike_wheel_rear": 1347687916
+    },
+    {
+      "country_code": 250,
+      "is_male": true,
+      "first_name": "Arnaud",
+      "last_name": "D\u00e9mare (GFC)",
+      "ride_jersey": 2814449542,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 3912703277
+    },
+    {
+      "country_code": 756,
+      "is_male": true,
+      "first_name": "Stefan",
+      "last_name": "K\u00fcng (GFC)",
+      "ride_jersey": 2814449542,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 3912703277
+    },
+    {
+      "country_code": 724,
+      "is_male": true,
+      "first_name": "Pello",
+      "last_name": "Bilbao (TBV)",
+      "ride_jersey": 2155858980,
+      "bike_frame": 3033010663
+    },
+    {
+      "country_code": 380,
+      "is_male": true,
+      "first_name": "Filippo",
+      "last_name": "Ganna (IGD)",
+      "ride_jersey": 542207259,
+      "bike_frame": 4208139356,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 3438211262
+    },
+    {
+      "country_code": 250,
+      "is_male": true,
+      "first_name": "Valentin",
+      "last_name": "Madouas (GFC)",
+      "ride_jersey": 2814449542,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 3912703277
+    },
+    {
+      "country_code": 840,
+      "is_male": true,
+      "first_name": "Matteo",
+      "last_name": "Jorgenson (MOV)",
+      "ride_jersey": 1842355135,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 4241132751
+    },
+    {
+      "country_code": 578,
+      "is_male": true,
+      "first_name": "Alexander",
+      "last_name": "Kristoff (UXT)",
+      "ride_jersey": 1756517729
+    },
+    {
+      "country_code": 250,
+      "is_male": true,
+      "first_name": "Axel",
+      "last_name": "Zingle (COF)",
+      "ride_jersey": 927604154,
+      "bike_frame": 106535518,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 724,
+      "is_male": true,
+      "first_name": "Juan",
+      "last_name": "Ayuso (UAD)",
+      "ride_jersey": 1751349769,
+      "bike_frame": 3628259811,
+      "bike_wheel_front": 2223270801,
+      "bike_wheel_rear": 3835575171
+    },
+    {
+      "country_code": 380,
+      "is_male": true,
+      "first_name": "Lorenzo",
+      "last_name": "Rota (ICW)",
+      "ride_jersey": 88121645,
+      "bike_frame": 1767548815,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 826,
+      "is_male": true,
+      "first_name": "Tao",
+      "last_name": "Geoghegan Hart (IGD)",
+      "ride_jersey": 542207259,
+      "bike_frame": 4208139356,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 3438211262
+    },
+    {
+      "country_code": 826,
+      "is_male": true,
+      "first_name": "Simon",
+      "last_name": "Yates (JAY)",
+      "ride_jersey": 493134166,
+      "bike_frame": 103914490,
+      "bike_wheel_front": 1497226614,
+      "bike_wheel_rear": 1347687916
+    },
+    {
+      "country_code": 250,
+      "is_male": true,
+      "first_name": "Guillaume",
+      "last_name": "Martin (COF)",
+      "ride_jersey": 927604154,
+      "bike_frame": 106535518,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 528,
+      "is_male": true,
+      "first_name": "Thymen",
+      "last_name": "Arensman (IGD)",
+      "ride_jersey": 542207259,
+      "bike_frame": 4208139356,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 3438211262
+    },
+    {
+      "country_code": 756,
+      "is_male": true,
+      "first_name": "Marc",
+      "last_name": "Hirschi (UAD)",
+      "ride_jersey": 1751349769,
+      "bike_frame": 3628259811,
+      "bike_wheel_front": 2223270801,
+      "bike_wheel_rear": 3835575171
+    },
+    {
+      "country_code": 170,
+      "is_male": true,
+      "first_name": "Miguel \u00c1ngel",
+      "last_name": "L\u00f3pez",
+      "ride_jersey": 493134166
+    },
+    {
+      "country_code": 372,
+      "is_male": true,
+      "first_name": "Ben",
+      "last_name": "Healy (EFE)",
+      "ride_jersey": 2349035663,
+      "bike_frame": 2005280203,
+      "bike_wheel_front": 1791179228,
+      "bike_wheel_rear": 2913819265,
+      "ride_helmet_type": 3707571564
+    },
+    {
+      "country_code": 380,
+      "is_male": true,
+      "first_name": "Giulio",
+      "last_name": "Ciccone (TRK)",
+      "ride_jersey": 2140478849,
+      "bike_frame": 4129467727,
+      "bike_wheel_front": 702195190,
+      "bike_wheel_rear": 3594144634
+    },
+    {
+      "country_code": 710,
+      "is_male": true,
+      "first_name": "Louis",
+      "last_name": "Meintjes (ICW)",
+      "ride_jersey": 88121645,
+      "bike_frame": 1767548815,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 170,
+      "is_male": true,
+      "first_name": "Sergio",
+      "last_name": "Higuita (BOH)",
+      "ride_jersey": 321508751,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 2181416413,
+      "bike_wheel_rear": 3548735686,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 56,
+      "is_male": true,
+      "first_name": "Tim",
+      "last_name": "Merlier (SOQ)",
+      "ride_jersey": 2906189156,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 2181416413,
+      "bike_wheel_rear": 3548735686,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 724,
+      "is_male": true,
+      "first_name": "Carlos",
+      "last_name": "Rodr\u00edguez (IGD)",
+      "ride_jersey": 542207259,
+      "bike_frame": 4208139356,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 3438211262
+    },
+    {
+      "country_code": 380,
+      "is_male": true,
+      "first_name": "Diego",
+      "last_name": "Ulissi (UAD)",
+      "ride_jersey": 1751349769,
+      "bike_frame": 3628259811,
+      "bike_wheel_front": 2223270801,
+      "bike_wheel_rear": 3835575171
+    },
+    {
+      "country_code": 36,
+      "is_male": true,
+      "first_name": "Jai",
+      "last_name": "Hindley (BOH)",
+      "ride_jersey": 321508751,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 2181416413,
+      "bike_wheel_rear": 3548735686,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 36,
+      "is_male": true,
+      "first_name": "Caleb",
+      "last_name": "Ewan (LTD)",
+      "ride_jersey": 4130579852,
+      "bike_frame": 4288910569,
+      "bike_wheel_front": 346409677,
+      "bike_wheel_rear": 2049111692
+    },
+    {
+      "country_code": 56,
+      "is_male": true,
+      "first_name": "Jordi",
+      "last_name": "Meeus (BOH)",
+      "ride_jersey": 321508751,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 2181416413,
+      "bike_wheel_rear": 3548735686,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 528,
+      "is_male": true,
+      "first_name": "Fabio",
+      "last_name": "Jakobsen (SOQ)",
+      "ride_jersey": 2906189156,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 2181416413,
+      "bike_wheel_rear": 3548735686,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 170,
+      "is_male": true,
+      "first_name": "Einer Augusto",
+      "last_name": "Rubio (MOV)",
+      "ride_jersey": 1842355135,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 4241132751
+    },
+    {
+      "country_code": 170,
+      "is_male": true,
+      "first_name": "Rigoberto",
+      "last_name": "Ur\u00e1n (EFE)",
+      "ride_jersey": 2349035663,
+      "bike_frame": 2005280203,
+      "bike_wheel_front": 1791179228,
+      "bike_wheel_rear": 2913819265,
+      "ride_helmet_type": 3707571564
+    },
+    {
+      "country_code": 380,
+      "is_male": true,
+      "first_name": "Matteo",
+      "last_name": "Trentin (UAD)",
+      "ride_jersey": 1751349769,
+      "bike_frame": 3628259811,
+      "bike_wheel_front": 2223270801,
+      "bike_wheel_rear": 3835575171
+    },
+    {
+      "country_code": 756,
+      "is_male": true,
+      "first_name": "Mauro",
+      "last_name": "Schmid (SOQ)",
+      "ride_jersey": 2906189156,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 2181416413,
+      "bike_wheel_rear": 3548735686,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 705,
+      "is_male": true,
+      "first_name": "Matej",
+      "last_name": "Mohori\u010d (TBV)",
+      "ride_jersey": 2155858980,
+      "bike_frame": 3033010663
+    },
+    {
+      "country_code": 250,
+      "is_male": true,
+      "first_name": "K\u00e9vin",
+      "last_name": "Vauquelin (ARK)",
+      "ride_jersey": 598687666,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 36,
+      "is_male": true,
+      "first_name": "Ben",
+      "last_name": "O'Connor (ACT)",
+      "ride_jersey": 1587982785,
+      "bike_frame": 3868468027,
+      "bike_wheel_front": 1053884173,
+      "bike_wheel_rear": 1614586487
+    },
+    {
+      "country_code": 826,
+      "is_male": true,
+      "first_name": "Ethan",
+      "last_name": "Hayter (IGD)",
+      "ride_jersey": 542207259,
+      "bike_frame": 4208139356,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 3438211262
+    },
+    {
+      "country_code": 56,
+      "is_male": true,
+      "first_name": "Gerben",
+      "last_name": "Thijssen (ICW)",
+      "ride_jersey": 88121645,
+      "bike_frame": 1767548815,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 643,
+      "is_male": true,
+      "first_name": "Aleksandr",
+      "last_name": "Vlasov (BOH)",
+      "ride_jersey": 321508751,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 2181416413,
+      "bike_wheel_rear": 3548735686,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 250,
+      "is_male": true,
+      "first_name": "Pavel",
+      "last_name": "Sivakov (IGD)",
+      "ride_jersey": 542207259,
+      "bike_frame": 4208139356,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 3438211262
+    },
+    {
+      "country_code": 840,
+      "is_male": true,
+      "first_name": "Magnus",
+      "last_name": "Sheffield (IGD)",
+      "ride_jersey": 542207259,
+      "bike_frame": 4208139356,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 3438211262
+    },
+    {
+      "country_code": 170,
+      "is_male": true,
+      "first_name": "Santiago",
+      "last_name": "Buitrago (TBV)",
+      "ride_jersey": 2155858980,
+      "bike_frame": 3033010663
+    },
+    {
+      "country_code": 208,
+      "is_male": true,
+      "first_name": "Magnus",
+      "last_name": "Cort (EFE)",
+      "ride_jersey": 2349035663,
+      "bike_frame": 2005280203,
+      "bike_wheel_front": 1791179228,
+      "bike_wheel_rear": 2913819265,
+      "ride_helmet_type": 3707571564
+    },
+    {
+      "country_code": 840,
+      "is_male": true,
+      "first_name": "Brandon",
+      "last_name": "McNulty (UAD)",
+      "ride_jersey": 1751349769,
+      "bike_frame": 3628259811,
+      "bike_wheel_front": 2223270801,
+      "bike_wheel_rear": 3835575171
+    },
+    {
+      "country_code": 398,
+      "is_male": true,
+      "first_name": "Alexey",
+      "last_name": "Lutsenko (AST)",
+      "ride_jersey": 1969335676,
+      "bike_frame": 2360271970,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 9439966
+    },
+    {
+      "country_code": 40,
+      "is_male": true,
+      "first_name": "Patrick",
+      "last_name": "Konrad (BOH)",
+      "ride_jersey": 321508751,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 2181416413,
+      "bike_wheel_rear": 3548735686,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 380,
+      "is_male": true,
+      "first_name": "Damiano",
+      "last_name": "Caruso (TBV)",
+      "ride_jersey": 2155858980,
+      "bike_frame": 3033010663
+    },
+    {
+      "country_code": 250,
+      "is_male": true,
+      "first_name": "Bryan",
+      "last_name": "Coquard (COF)",
+      "ride_jersey": 927604154,
+      "bike_frame": 106535518,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 250,
+      "is_male": true,
+      "first_name": "Beno\u00eet",
+      "last_name": "Cosnefroy (ACT)",
+      "ride_jersey": 1587982785,
+      "bike_frame": 3868468027,
+      "bike_wheel_front": 1053884173,
+      "bike_wheel_rear": 1614586487
+    },
+    {
+      "country_code": 56,
+      "is_male": true,
+      "first_name": "Milan",
+      "last_name": "Menten (LTD)",
+      "ride_jersey": 4130579852,
+      "bike_frame": 4288910569,
+      "bike_wheel_front": 346409677,
+      "bike_wheel_rear": 2049111692
+    },
+    {
+      "country_code": 218,
+      "is_male": true,
+      "first_name": "Richard",
+      "last_name": "Carapaz (EFE)",
+      "ride_jersey": 2349035663,
+      "bike_frame": 2005280203,
+      "bike_wheel_front": 1791179228,
+      "bike_wheel_rear": 2913819265,
+      "ride_helmet_type": 3707571564
+    },
+    {
+      "country_code": 724,
+      "is_male": true,
+      "first_name": "Jes\u00fas",
+      "last_name": "Herrada (COF)",
+      "ride_jersey": 927604154,
+      "bike_frame": 106535518,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 380,
+      "is_male": true,
+      "first_name": "Jonathan",
+      "last_name": "Milan (TBV)",
+      "ride_jersey": 2155858980,
+      "bike_frame": 3033010663
+    },
+    {
+      "country_code": 56,
+      "is_male": true,
+      "first_name": "Tiesj",
+      "last_name": "Benoot (TJV)",
+      "ride_jersey": 88214615,
+      "bike_frame": 106535518,
+      "bike_wheel_front": 635220876,
+      "bike_wheel_rear": 1842698274,
+      "ride_helmet_type": 1292376041
+    },
+    {
+      "country_code": 578,
+      "is_male": true,
+      "first_name": "Andreas",
+      "last_name": "Leknessund (DSM)",
+      "ride_jersey": 2695025247,
+      "bike_frame": 1315158373,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 36,
+      "is_male": true,
+      "first_name": "Jay",
+      "last_name": "Vine (UAD)",
+      "ride_jersey": 1751349769,
+      "bike_frame": 3628259811,
+      "bike_wheel_front": 2223270801,
+      "bike_wheel_rear": 3835575171
+    },
+    {
+      "country_code": 56,
+      "is_male": true,
+      "first_name": "Yves",
+      "last_name": "Lampaert (SOQ)",
+      "ride_jersey": 2906189156,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 2181416413,
+      "bike_wheel_rear": 3548735686,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 620,
+      "is_male": true,
+      "first_name": "Rui",
+      "last_name": "Costa (ICW)",
+      "ride_jersey": 88121645,
+      "bike_frame": 1767548815,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 232,
+      "is_male": true,
+      "first_name": "Biniam",
+      "last_name": "Girmay (ICW)",
+      "ride_jersey": 88121645,
+      "bike_frame": 1767548815,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 36,
+      "is_male": true,
+      "first_name": "Sam",
+      "last_name": "Welsford (DSM)",
+      "ride_jersey": 2695025247,
+      "bike_frame": 1315158373,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 276,
+      "is_male": true,
+      "first_name": "Pascal",
+      "last_name": "Ackermann (UAD)",
+      "ride_jersey": 1751349769,
+      "bike_frame": 3628259811,
+      "bike_wheel_front": 2223270801,
+      "bike_wheel_rear": 3835575171
+    },
+    {
+      "country_code": 380,
+      "is_male": true,
+      "first_name": "Alberto",
+      "last_name": "Bettiol (EFE)",
+      "ride_jersey": 2349035663,
+      "bike_frame": 2005280203,
+      "bike_wheel_front": 1791179228,
+      "bike_wheel_rear": 2913819265,
+      "ride_helmet_type": 3707571564
+    },
+    {
+      "country_code": 428,
+      "is_male": true,
+      "first_name": "Toms",
+      "last_name": "Skuji\u0146\u0161 (TRK)",
+      "ride_jersey": 2140478849,
+      "bike_frame": 4129467727,
+      "bike_wheel_front": 702195190,
+      "bike_wheel_rear": 3594144634
+    },
+    {
+      "country_code": 36,
+      "is_male": true,
+      "first_name": "Kaden",
+      "last_name": "Groves (ADC)",
+      "ride_jersey": 930946828,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 1387973863
+    },
+    {
+      "country_code": 826,
+      "is_male": true,
+      "first_name": "Fred",
+      "last_name": "Wright (TBV)",
+      "ride_jersey": 2155858980,
+      "bike_frame": 3033010663
+    },
+    {
+      "country_code": 56,
+      "is_male": true,
+      "first_name": "Ilan",
+      "last_name": "Van Wilder (SOQ)",
+      "ride_jersey": 2906189156,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 2181416413,
+      "bike_wheel_rear": 3548735686,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 826,
+      "is_male": true,
+      "first_name": "Ben",
+      "last_name": "Tulett (IGD)",
+      "ride_jersey": 542207259,
+      "bike_frame": 4208139356,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 3438211262
+    },
+    {
+      "country_code": 724,
+      "is_male": true,
+      "first_name": "Iv\u00e1n",
+      "last_name": "Garc\u00eda Cortina (MOV)",
+      "ride_jersey": 1842355135,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 4241132751
+    },
+    {
+      "country_code": 40,
+      "is_male": true,
+      "first_name": "Felix",
+      "last_name": "Gall (ACT)",
+      "ride_jersey": 1587982785,
+      "bike_frame": 3868468027,
+      "bike_wheel_front": 1053884173,
+      "bike_wheel_rear": 1614586487
+    },
+    {
+      "country_code": 124,
+      "is_male": true,
+      "first_name": "Michael",
+      "last_name": "Woods (IPT)",
+      "ride_jersey": 552170906,
+      "bike_frame": 3469325930
+    },
+    {
+      "country_code": 56,
+      "is_male": true,
+      "first_name": "Dries",
+      "last_name": "Van Gestel (TEN)",
+      "ride_jersey": 2092402045,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 840,
+      "is_male": true,
+      "first_name": "Sepp",
+      "last_name": "Kuss (TJV)",
+      "ride_jersey": 88214615,
+      "bike_frame": 106535518,
+      "bike_wheel_front": 635220876,
+      "bike_wheel_rear": 1842698274,
+      "ride_helmet_type": 1292376041
+    },
+    {
+      "country_code": 554,
+      "is_male": true,
+      "first_name": "Corbin",
+      "last_name": "Strong (IPT)",
+      "ride_jersey": 552170906,
+      "bike_frame": 3469325930
+    },
+    {
+      "country_code": 276,
+      "is_male": true,
+      "first_name": "Lennard",
+      "last_name": "K\u00e4mna (BOH)",
+      "ride_jersey": 321508751,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 2181416413,
+      "bike_wheel_rear": 3548735686,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 380,
+      "is_male": true,
+      "first_name": "Filippo",
+      "last_name": "Zana (JAY)",
+      "ride_jersey": 493134166,
+      "bike_frame": 103914490,
+      "bike_wheel_front": 1497226614,
+      "bike_wheel_rear": 1347687916
+    },
+    {
+      "country_code": 528,
+      "is_male": true,
+      "first_name": "Danny",
+      "last_name": "van Poppel (BOH)",
+      "ride_jersey": 321508751,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 2181416413,
+      "bike_wheel_rear": 3548735686,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 724,
+      "is_male": true,
+      "first_name": "Ion",
+      "last_name": "Izagirre (COF)",
+      "ride_jersey": 927604154,
+      "bike_frame": 106535518,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 724,
+      "is_male": true,
+      "first_name": "Alex",
+      "last_name": "Aranburu (MOV)",
+      "ride_jersey": 1842355135,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 4241132751
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Demi",
+      "last_name": "Vollering (SDW)",
+      "ride_jersey": 1494272741,
+      "bike_frame": 935373427,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Annemiek",
+      "last_name": "van Vleuten (MOV)",
+      "ride_jersey": 1842355135,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 4241132751
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Lorena",
+      "last_name": "Wiebes (SDW)",
+      "ride_jersey": 1494272741,
+      "bike_frame": 935373427,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 56,
+      "is_male": false,
+      "first_name": "Lotte",
+      "last_name": "Kopecky (SDW)",
+      "ride_jersey": 1494272741,
+      "bike_frame": 935373427,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 380,
+      "is_male": false,
+      "first_name": "Elisa",
+      "last_name": "Longo Borghini (TRK)",
+      "ride_jersey": 1154847422,
+      "bike_frame": 4129467727,
+      "bike_wheel_front": 702195190,
+      "bike_wheel_rear": 3594144634
+    },
+    {
+      "country_code": 756,
+      "is_male": false,
+      "first_name": "Marlen",
+      "last_name": "Reusser (SDW)",
+      "ride_jersey": 1494272741,
+      "bike_frame": 935373427,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 380,
+      "is_male": false,
+      "first_name": "Silvia",
+      "last_name": "Persico (UAD)",
+      "ride_jersey": 1751349769,
+      "bike_frame": 3628259811,
+      "bike_wheel_front": 2223270801,
+      "bike_wheel_rear": 3835575171
+    },
+    {
+      "country_code": 276,
+      "is_male": false,
+      "first_name": "Liane",
+      "last_name": "Lippert (MOV)",
+      "ride_jersey": 1842355135,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 4241132751
+    },
+    {
+      "country_code": 208,
+      "is_male": false,
+      "first_name": "Cecilie Uttrup",
+      "last_name": "Ludwig (FST)",
+      "ride_jersey": 3360845221,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 36,
+      "is_male": false,
+      "first_name": "Grace",
+      "last_name": "Brown (FST)",
+      "ride_jersey": 3360845221,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 616,
+      "is_male": false,
+      "first_name": "Katarzyna",
+      "last_name": "Niewiadoma (CSR)",
+      "ride_jersey": 3970245639,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 3346861673
+    },
+    {
+      "country_code": 710,
+      "is_male": false,
+      "first_name": "Ashleigh",
+      "last_name": "Moolman (AGS)",
+      "ride_jersey": 3103938066,
+      "bike_frame": 935373427,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 826,
+      "is_male": false,
+      "first_name": "Pfeiffer",
+      "last_name": "Georgi (DSM)",
+      "ride_jersey": 2695025247,
+      "bike_frame": 1315158373,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 36,
+      "is_male": false,
+      "first_name": "Amanda",
+      "last_name": "Spratt (TRK)",
+      "ride_jersey": 1154847422,
+      "bike_frame": 4129467727,
+      "bike_wheel_front": 702195190,
+      "bike_wheel_rear": 3594144634
+    },
+    {
+      "country_code": 250,
+      "is_male": false,
+      "first_name": "Audrey",
+      "last_name": "Cordon-Ragot (HPW)",
+      "ride_jersey": 854534852,
+      "bike_frame": 3002729519
+    },
+    {
+      "country_code": 756,
+      "is_male": false,
+      "first_name": "Elise",
+      "last_name": "Chabbey (CSR)",
+      "ride_jersey": 3970245639,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 3346861673
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Marianne",
+      "last_name": "Vos (JVW)",
+      "ride_jersey": 1541349594,
+      "bike_frame": 106535518,
+      "bike_wheel_front": 635220876,
+      "bike_wheel_rear": 1842698274,
+      "ride_helmet_type": 1292376041
+    },
+    {
+      "country_code": 380,
+      "is_male": false,
+      "first_name": "Elisa",
+      "last_name": "Balsamo (TRK)",
+      "ride_jersey": 1154847422,
+      "bike_frame": 4129467727,
+      "bike_wheel_front": 702195190,
+      "bike_wheel_rear": 3594144634
+    },
+    {
+      "country_code": 724,
+      "is_male": false,
+      "first_name": "Mavi",
+      "last_name": "Garc\u00eda (LIV)",
+      "ride_jersey": 3932519699,
+      "bike_frame": 3495124341
+    },
+    {
+      "country_code": 250,
+      "is_male": false,
+      "first_name": "Juliette",
+      "last_name": "Labous (DSM)",
+      "ride_jersey": 2695025247,
+      "bike_frame": 1315158373,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 250,
+      "is_male": false,
+      "first_name": "\u00c9vita",
+      "last_name": "Muzic (FST)",
+      "ride_jersey": 3360845221,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 643,
+      "is_male": false,
+      "first_name": "Tamara",
+      "last_name": "Dronova-Balabolina (CGS)",
+      "ride_jersey": 552170906,
+      "bike_frame": 3469325930,
+      "ride_helmet_type": 9439966
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Shirin",
+      "last_name": "van Anrooij (TRK)",
+      "ride_jersey": 1154847422,
+      "bike_frame": 4129467727,
+      "bike_wheel_front": 702195190,
+      "bike_wheel_rear": 3594144634
+    },
+    {
+      "country_code": 380,
+      "is_male": false,
+      "first_name": "Gaia",
+      "last_name": "Realini (TRK)",
+      "ride_jersey": 1154847422,
+      "bike_frame": 4129467727,
+      "bike_wheel_front": 702195190,
+      "bike_wheel_rear": 3594144634
+    },
+    {
+      "country_code": 380,
+      "is_male": false,
+      "first_name": "Soraya",
+      "last_name": "Paladin (CSR)",
+      "ride_jersey": 3970245639,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 3346861673
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Charlotte",
+      "last_name": "Kool (DSM)",
+      "ride_jersey": 2695025247,
+      "bike_frame": 1315158373,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Riejanne",
+      "last_name": "Markus (JVW)",
+      "ride_jersey": 1541349594,
+      "bike_frame": 106535518,
+      "bike_wheel_front": 635220876,
+      "bike_wheel_rear": 1842698274,
+      "ride_helmet_type": 1292376041
+    },
+    {
+      "country_code": 380,
+      "is_male": false,
+      "first_name": "Eleonora Camilla",
+      "last_name": "Gasparrini (UAD)",
+      "ride_jersey": 1751349769,
+      "bike_frame": 3628259811,
+      "bike_wheel_front": 2223270801,
+      "bike_wheel_rear": 3835575171
+    },
+    {
+      "country_code": 380,
+      "is_male": false,
+      "first_name": "Marta",
+      "last_name": "Bastianelli (UAD)",
+      "ride_jersey": 1751349769,
+      "bike_frame": 3628259811,
+      "bike_wheel_front": 2223270801,
+      "bike_wheel_rear": 3835575171
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Loes",
+      "last_name": "Adegeest (FST)",
+      "ride_jersey": 3360845221,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 36,
+      "is_male": false,
+      "first_name": "Ruby",
+      "last_name": "Roseman-Gannon (JAY)",
+      "ride_jersey": 493134166,
+      "bike_frame": 103914490,
+      "bike_wheel_front": 1497226614,
+      "bike_wheel_rear": 1347687916
+    },
+    {
+      "country_code": 124,
+      "is_male": false,
+      "first_name": "Alison",
+      "last_name": "Jackson (TIB)",
+      "ride_jersey": 2795352821,
+      "bike_frame": 2005280203,
+      "ride_helmet_type": 3707571564
+    },
+    {
+      "country_code": 380,
+      "is_male": false,
+      "first_name": "Marta",
+      "last_name": "Cavalli (FST)",
+      "ride_jersey": 3360845221,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 826,
+      "is_male": false,
+      "first_name": "Claire",
+      "last_name": "Steels (CGS)",
+      "ride_jersey": 552170906,
+      "bike_frame": 3469325930,
+      "ride_helmet_type": 9439966
+    },
+    {
+      "country_code": 192,
+      "is_male": false,
+      "first_name": "Arlenis",
+      "last_name": "Sierra (MOV)",
+      "ride_jersey": 1842355135,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 4241132751
+    },
+    {
+      "country_code": 380,
+      "is_male": false,
+      "first_name": "Erica",
+      "last_name": "Magnaldi (UAD)",
+      "ride_jersey": 1751349769,
+      "bike_frame": 3628259811,
+      "bike_wheel_front": 2223270801,
+      "bike_wheel_rear": 3835575171
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Ellen",
+      "last_name": "van Dijk (TRK)",
+      "ride_jersey": 1154847422,
+      "bike_frame": 4129467727,
+      "bike_wheel_front": 702195190,
+      "bike_wheel_rear": 3594144634
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Karlijn",
+      "last_name": "Swinkels (JVW)",
+      "ride_jersey": 1541349594,
+      "bike_frame": 106535518,
+      "bike_wheel_front": 635220876,
+      "bike_wheel_rear": 1842698274,
+      "ride_helmet_type": 1292376041
+    },
+    {
+      "country_code": 840,
+      "is_male": false,
+      "first_name": "Chloe",
+      "last_name": "Dygert (CSR)",
+      "ride_jersey": 3970245639,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 3346861673
+    },
+    {
+      "country_code": 380,
+      "is_male": false,
+      "first_name": "Chiara",
+      "last_name": "Consonni (UAD)",
+      "ride_jersey": 1751349769,
+      "bike_frame": 3628259811,
+      "bike_wheel_front": 2223270801,
+      "bike_wheel_rear": 3835575171
+    },
+    {
+      "country_code": 840,
+      "is_male": false,
+      "first_name": "Veronica",
+      "last_name": "Ewers (TIB)",
+      "ride_jersey": 2795352821,
+      "bike_frame": 2005280203,
+      "ride_helmet_type": 3707571564
+    },
+    {
+      "country_code": 40,
+      "is_male": false,
+      "first_name": "Christina",
+      "last_name": "Schweinberger (FED)",
+      "ride_jersey": 2906189156,
+      "bike_frame": 1520594784
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Floortje",
+      "last_name": "Mackaij (MOV)",
+      "ride_jersey": 1842355135,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 4241132751
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Anouska",
+      "last_name": "Koster (UXT)",
+      "ride_jersey": 1756517729
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Mischa",
+      "last_name": "Bredewold (SDW)",
+      "ride_jersey": 1494272741,
+      "bike_frame": 935373427,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 124,
+      "is_male": false,
+      "first_name": "Olivia",
+      "last_name": "Baril (UAD)",
+      "ride_jersey": 1751349769,
+      "bike_frame": 3628259811,
+      "bike_wheel_front": 2223270801,
+      "bike_wheel_rear": 3835575171
+    },
+    {
+      "country_code": 36,
+      "is_male": false,
+      "first_name": "Alexandra",
+      "last_name": "Manly (JAY)",
+      "ride_jersey": 493134166,
+      "bike_frame": 103914490,
+      "bike_wheel_front": 1497226614,
+      "bike_wheel_rear": 1347687916
+    },
+    {
+      "country_code": 56,
+      "is_male": false,
+      "first_name": "Shari",
+      "last_name": "Bossuyt (CSR)",
+      "ride_jersey": 3970245639,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 3346861673
+    },
+    {
+      "country_code": 250,
+      "is_male": false,
+      "first_name": "C\u00e9drine",
+      "last_name": "Kerbaol (WNT)",
+      "ride_jersey": 97975537
+    },
+    {
+      "country_code": 616,
+      "is_male": false,
+      "first_name": "Agnieszka",
+      "last_name": "Skalniak-S\u00f3jka (CSR)",
+      "ride_jersey": 3970245639,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 3346861673
+    },
+    {
+      "country_code": 380,
+      "is_male": false,
+      "first_name": "Arianna",
+      "last_name": "Fidanza (WNT)",
+      "ride_jersey": 97975537
+    },
+    {
+      "country_code": 826,
+      "is_male": false,
+      "first_name": "Anna",
+      "last_name": "Henderson (JVW)",
+      "ride_jersey": 1541349594,
+      "bike_frame": 106535518,
+      "bike_wheel_front": 635220876,
+      "bike_wheel_rear": 1842698274,
+      "ride_helmet_type": 1292376041
+    },
+    {
+      "country_code": 380,
+      "is_male": false,
+      "first_name": "Vittoria",
+      "last_name": "Guazzini (FST)",
+      "ride_jersey": 3360845221,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 56,
+      "is_male": false,
+      "first_name": "Julie",
+      "last_name": "De Wilde (FED)",
+      "ride_jersey": 2906189156,
+      "bike_frame": 1520594784
+    },
+    {
+      "country_code": 56,
+      "is_male": false,
+      "first_name": "Justine",
+      "last_name": "Ghekiere (AGS)",
+      "ride_jersey": 3103938066,
+      "bike_frame": 935373427,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 554,
+      "is_male": false,
+      "first_name": "Niamh",
+      "last_name": "Fisher-Black (SDW)",
+      "ride_jersey": 1494272741,
+      "bike_frame": 935373427,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Yara",
+      "last_name": "Kastelijn (FED)",
+      "ride_jersey": 2906189156,
+      "bike_frame": 1520594784
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Maike",
+      "last_name": "van der Duin (CSR)",
+      "ride_jersey": 3970245639,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 3346861673
+    },
+    {
+      "country_code": 616,
+      "is_male": false,
+      "first_name": "Marta",
+      "last_name": "Lach (WNT)",
+      "ride_jersey": 97975537
+    },
+    {
+      "country_code": 208,
+      "is_male": false,
+      "first_name": "Emma",
+      "last_name": "Norsgaard (MOV)",
+      "ride_jersey": 1842355135,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 4241132751
+    },
+    {
+      "country_code": 840,
+      "is_male": false,
+      "first_name": "Megan",
+      "last_name": "Jastrab (DSM)",
+      "ride_jersey": 2695025247,
+      "bike_frame": 1315158373,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Amber",
+      "last_name": "Kraak (JVW)",
+      "ride_jersey": 1541349594,
+      "bike_frame": 106535518,
+      "bike_wheel_front": 635220876,
+      "bike_wheel_rear": 1842698274,
+      "ride_helmet_type": 1292376041
+    },
+    {
+      "country_code": 724,
+      "is_male": false,
+      "first_name": "Ane",
+      "last_name": "Santesteban (JAY)",
+      "ride_jersey": 493134166,
+      "bike_frame": 103914490,
+      "bike_wheel_front": 1497226614,
+      "bike_wheel_rear": 1347687916
+    },
+    {
+      "country_code": 56,
+      "is_male": false,
+      "first_name": "Marthe",
+      "last_name": "Truyen (FED)",
+      "ride_jersey": 2906189156,
+      "bike_frame": 1520594784
+    },
+    {
+      "country_code": 554,
+      "is_male": false,
+      "first_name": "Georgia",
+      "last_name": "Williams (TIB)",
+      "ride_jersey": 2795352821,
+      "bike_frame": 2005280203,
+      "ride_helmet_type": 3707571564
+    },
+    {
+      "country_code": 840,
+      "is_male": false,
+      "first_name": "Kristen",
+      "last_name": "Faulkner (JAY)",
+      "ride_jersey": 493134166,
+      "bike_frame": 103914490,
+      "bike_wheel_front": 1497226614,
+      "bike_wheel_rear": 1347687916
+    },
+    {
+      "country_code": 276,
+      "is_male": false,
+      "first_name": "Ricarda",
+      "last_name": "Bauernfeind (CSR)",
+      "ride_jersey": 3970245639,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 3346861673
+    },
+    {
+      "country_code": 124,
+      "is_male": false,
+      "first_name": "Simone",
+      "last_name": "Boilard (AUB)",
+      "ride_jersey": 3305515323,
+      "bike_frame": 2005280203,
+      "bike_wheel_front": 897949453,
+      "bike_wheel_rear": 4001596344
+    },
+    {
+      "country_code": 380,
+      "is_male": false,
+      "first_name": "Maria Giulia",
+      "last_name": "Confalonieri (UXT)",
+      "ride_jersey": 1756517729
+    },
+    {
+      "country_code": 36,
+      "is_male": false,
+      "first_name": "Neve",
+      "last_name": "Bradbury (CSR)",
+      "ride_jersey": 3970245639,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 3346861673
+    },
+    {
+      "country_code": 554,
+      "is_male": false,
+      "first_name": "Ally",
+      "last_name": "Wollaston (AGS)",
+      "ride_jersey": 3103938066,
+      "bike_frame": 935373427,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 250,
+      "is_male": false,
+      "first_name": "Coralie",
+      "last_name": "Demay (AUB)",
+      "ride_jersey": 3305515323,
+      "bike_frame": 2005280203,
+      "bike_wheel_front": 897949453,
+      "bike_wheel_rear": 4001596344
+    },
+    {
+      "country_code": 616,
+      "is_male": false,
+      "first_name": "Daria",
+      "last_name": "Pikulik (HPW)",
+      "ride_jersey": 854534852,
+      "bike_frame": 3002729519
+    },
+    {
+      "country_code": 250,
+      "is_male": false,
+      "first_name": "Gladys",
+      "last_name": "Verhulst (FST)",
+      "ride_jersey": 3360845221,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 56,
+      "is_male": false,
+      "first_name": "Julie",
+      "last_name": "Van de Velde (FED)",
+      "ride_jersey": 2906189156,
+      "bike_frame": 1520594784
+    },
+    {
+      "country_code": 348,
+      "is_male": false,
+      "first_name": "Blanka",
+      "last_name": "Vas (SDW)",
+      "ride_jersey": 1494272741,
+      "bike_frame": 935373427,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 380,
+      "is_male": false,
+      "first_name": "Sofia",
+      "last_name": "Bertizzolo (UAD)",
+      "ride_jersey": 1751349769,
+      "bike_frame": 3628259811,
+      "bike_wheel_front": 2223270801,
+      "bike_wheel_rear": 3835575171
+    },
+    {
+      "country_code": 554,
+      "is_male": false,
+      "first_name": "Ella",
+      "last_name": "Wyllie (DRP)",
+      "ride_jersey": 3553917933
+    },
+    {
+      "country_code": 442,
+      "is_male": false,
+      "first_name": "Christine",
+      "last_name": "Majerus (SDW)",
+      "ride_jersey": 1494272741,
+      "bike_frame": 935373427,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 276,
+      "is_male": false,
+      "first_name": "Clara",
+      "last_name": "Koppenburg (COF)",
+      "ride_jersey": 4191972189
+    },
+    {
+      "country_code": 208,
+      "is_male": false,
+      "first_name": "Amalie",
+      "last_name": "Dideriksen (UXT)",
+      "ride_jersey": 1756517729
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Lucinda",
+      "last_name": "Brand (TRK)",
+      "ride_jersey": 1154847422,
+      "bike_frame": 4129467727,
+      "bike_wheel_front": 702195190,
+      "bike_wheel_rear": 3594144634
+    },
+    {
+      "country_code": 36,
+      "is_male": false,
+      "first_name": "Danielle",
+      "last_name": "de Francesco (ARK)",
+      "ride_jersey": 1128201030
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Nina",
+      "last_name": "Buijsman (HPW)",
+      "ride_jersey": 854534852,
+      "bike_frame": 3002729519
+    },
+    {
+      "country_code": 250,
+      "is_male": false,
+      "first_name": "Eug\u00e9nie",
+      "last_name": "Duval (FST)",
+      "ride_jersey": 3360845221,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Esm\u00e9e",
+      "last_name": "Peperkamp (DSM)",
+      "ride_jersey": 2695025247,
+      "bike_frame": 1315158373,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 578,
+      "is_male": false,
+      "first_name": "Katrine",
+      "last_name": "Aalerud (MOV)",
+      "ride_jersey": 1842355135,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 4241132751
+    },
+    {
+      "country_code": 616,
+      "is_male": false,
+      "first_name": "Dominika",
+      "last_name": "Wlodarczyk (MAW)",
+      "ride_jersey": 851470392
+    },
+    {
+      "country_code": 826,
+      "is_male": false,
+      "first_name": "Anna",
+      "last_name": "Shackley (SDW)",
+      "ride_jersey": 1494272741,
+      "bike_frame": 935373427,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 380,
+      "is_male": false,
+      "first_name": "Rachele",
+      "last_name": "Barbieri (LIV)",
+      "ride_jersey": 3932519699,
+      "bike_frame": 3495124341
+    },
+    {
+      "country_code": 380,
+      "is_male": false,
+      "first_name": "Alessia",
+      "last_name": "Vigilia (TOP)",
+      "ride_jersey": 520081294
+    },
+    {
+      "country_code": 246,
+      "is_male": false,
+      "first_name": "Anniina",
+      "last_name": "Ahtosalo (UXT)",
+      "ride_jersey": 1756517729
+    },
+    {
+      "country_code": 578,
+      "is_male": false,
+      "first_name": "Mie Bj\u00f8rndal",
+      "last_name": "Ottestad (UXT)",
+      "ride_jersey": 1756517729
+    },
+    {
+      "country_code": 250,
+      "is_male": false,
+      "first_name": "Clara",
+      "last_name": "Copponi (FST)",
+      "ride_jersey": 3360845221,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 380,
+      "is_male": false,
+      "first_name": "Ilaria",
+      "last_name": "Sanguineti (TRK)",
+      "ride_jersey": 1154847422,
+      "bike_frame": 4129467727,
+      "bike_wheel_front": 702195190,
+      "bike_wheel_rear": 3594144634
+    },
+    {
+      "country_code": 826,
+      "is_male": false,
+      "first_name": "Elizabeth",
+      "last_name": "Deignan (TRK)",
+      "ride_jersey": 1154847422,
+      "bike_frame": 4129467727,
+      "bike_wheel_front": 702195190,
+      "bike_wheel_rear": 3594144634
+    },
+    {
+      "country_code": 705,
+      "is_male": false,
+      "first_name": "Ur\u0161ka",
+      "last_name": "\u017digart (JAY)",
+      "ride_jersey": 493134166,
+      "bike_frame": 103914490,
+      "bike_wheel_front": 1497226614,
+      "bike_wheel_rear": 1347687916
+    },
+    {
+      "country_code": 840,
+      "is_male": false,
+      "first_name": "Krista",
+      "last_name": "Doebel-Hickok (TIB)",
+      "ride_jersey": 2795352821,
+      "bike_frame": 2005280203,
+      "ride_helmet_type": 3707571564
+    },
+    {
+      "country_code": 276,
+      "is_male": false,
+      "first_name": "Romy",
+      "last_name": "Kasper (AGS)",
+      "ride_jersey": 3103938066,
+      "bike_frame": 935373427,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Femke",
+      "last_name": "Gerritse (PHV)",
+      "ride_jersey": 4102459937
+    },
+    {
+      "country_code": 528,
+      "is_male": true,
+      "first_name": "Bauke",
+      "last_name": "Mollema (TRK)",
+      "ride_jersey": 2140478849,
+      "bike_frame": 4129467727,
+      "bike_wheel_front": 702195190,
+      "bike_wheel_rear": 3594144634
+    },
+    {
+      "country_code": 620,
+      "is_male": true,
+      "first_name": "Ruben",
+      "last_name": "Guerreiro (MOV)",
+      "ride_jersey": 1842355135,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 4241132751
+    },
+    {
+      "country_code": 380,
+      "is_male": true,
+      "first_name": "Luca",
+      "last_name": "Mozzato (ARK)",
+      "ride_jersey": 598687666,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 170,
+      "is_male": true,
+      "first_name": "Daniel Felipe",
+      "last_name": "Mart\u00ednez (IGD)",
+      "ride_jersey": 542207259,
+      "bike_frame": 4208139356,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 3438211262
+    },
+    {
+      "country_code": 56,
+      "is_male": true,
+      "first_name": "Maxim",
+      "last_name": "Van Gils (LTD)",
+      "ride_jersey": 4130579852,
+      "bike_frame": 4288910569,
+      "bike_wheel_front": 346409677,
+      "bike_wheel_rear": 2049111692
+    },
+    {
+      "country_code": 372,
+      "is_male": true,
+      "first_name": "Sam",
+      "last_name": "Bennett (BOH)",
+      "ride_jersey": 321508751,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 2181416413,
+      "bike_wheel_rear": 3548735686,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 208,
+      "is_male": true,
+      "first_name": "S\u00f8ren",
+      "last_name": "Kragh Andersen (ADC)",
+      "ride_jersey": 930946828,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 1387973863
+    },
+    {
+      "country_code": 250,
+      "is_male": true,
+      "first_name": "Romain",
+      "last_name": "Gr\u00e9goire (GFC)",
+      "ride_jersey": 2814449542,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 3912703277
+    },
+    {
+      "country_code": 724,
+      "is_male": true,
+      "first_name": "Marc",
+      "last_name": "Soler (UAD)",
+      "ride_jersey": 1751349769,
+      "bike_frame": 3628259811,
+      "bike_wheel_front": 2223270801,
+      "bike_wheel_rear": 3835575171
+    },
+    {
+      "country_code": 170,
+      "is_male": true,
+      "first_name": "Juan Sebasti\u00e1n",
+      "last_name": "Molano (UAD)",
+      "ride_jersey": 1751349769,
+      "bike_frame": 3628259811,
+      "bike_wheel_front": 2223270801,
+      "bike_wheel_rear": 3835575171
+    },
+    {
+      "country_code": 56,
+      "is_male": true,
+      "first_name": "Edward",
+      "last_name": "Theuns (TRK)",
+      "ride_jersey": 2140478849,
+      "bike_frame": 4129467727,
+      "bike_wheel_front": 702195190,
+      "bike_wheel_rear": 3594144634
+    },
+    {
+      "country_code": 56,
+      "is_male": true,
+      "first_name": "Cian",
+      "last_name": "Uijtdebroeks (BOH)",
+      "ride_jersey": 321508751,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 2181416413,
+      "bike_wheel_rear": 3548735686,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 250,
+      "is_male": true,
+      "first_name": "Julian",
+      "last_name": "Alaphilippe (SOQ)",
+      "ride_jersey": 2906189156,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 2181416413,
+      "bike_wheel_rear": 3548735686,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 578,
+      "is_male": true,
+      "first_name": "Tobias",
+      "last_name": "Foss (TJV)",
+      "ride_jersey": 88214615,
+      "bike_frame": 106535518,
+      "bike_wheel_front": 635220876,
+      "bike_wheel_rear": 1842698274,
+      "ride_helmet_type": 1292376041
+    },
+    {
+      "country_code": 56,
+      "is_male": true,
+      "first_name": "Florian",
+      "last_name": "Vermeersch (LTD)",
+      "ride_jersey": 4130579852,
+      "bike_frame": 4288910569,
+      "bike_wheel_front": 346409677,
+      "bike_wheel_rear": 2049111692
+    },
+    {
+      "country_code": 724,
+      "is_male": true,
+      "first_name": "Oier",
+      "last_name": "Lazkano (MOV)",
+      "ride_jersey": 1842355135,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 4241132751
+    },
+    {
+      "country_code": 250,
+      "is_male": true,
+      "first_name": "R\u00e9mi",
+      "last_name": "Cavagna (SOQ)",
+      "ride_jersey": 2906189156,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 2181416413,
+      "bike_wheel_rear": 3548735686,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 250,
+      "is_male": true,
+      "first_name": "Aur\u00e9lien",
+      "last_name": "Paret-Peintre (ACT)",
+      "ride_jersey": 1587982785,
+      "bike_frame": 3868468027,
+      "bike_wheel_front": 1053884173,
+      "bike_wheel_rear": 1614586487
+    },
+    {
+      "country_code": 56,
+      "is_male": true,
+      "first_name": "Jenthe",
+      "last_name": "Biermans (ARK)",
+      "ride_jersey": 598687666,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 380,
+      "is_male": true,
+      "first_name": "Andrea",
+      "last_name": "Piccolo (EFE)",
+      "ride_jersey": 2349035663,
+      "bike_frame": 2005280203,
+      "bike_wheel_front": 1791179228,
+      "bike_wheel_rear": 2913819265,
+      "ride_helmet_type": 3707571564
+    },
+    {
+      "country_code": 208,
+      "is_male": true,
+      "first_name": "Alexander",
+      "last_name": "Kamp",
+      "ride_jersey": 3612223524
+    },
+    {
+      "country_code": 380,
+      "is_male": true,
+      "first_name": "Davide",
+      "last_name": "Ballerini (SOQ)",
+      "ride_jersey": 2906189156,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 2181416413,
+      "bike_wheel_rear": 3548735686,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 56,
+      "is_male": true,
+      "first_name": "Greg",
+      "last_name": "Van Avermaet (ACT)",
+      "ride_jersey": 1587982785,
+      "bike_frame": 3868468027,
+      "bike_wheel_front": 1053884173,
+      "bike_wheel_rear": 1614586487
+    },
+    {
+      "country_code": 208,
+      "is_male": true,
+      "first_name": "Andreas",
+      "last_name": "Kron (LTD)",
+      "ride_jersey": 4130579852,
+      "bike_frame": 4288910569,
+      "bike_wheel_front": 346409677,
+      "bike_wheel_rear": 2049111692
+    },
+    {
+      "country_code": 826,
+      "is_male": true,
+      "first_name": "Hugh",
+      "last_name": "Carthy (EFE)",
+      "ride_jersey": 2349035663,
+      "bike_frame": 2005280203,
+      "bike_wheel_front": 1791179228,
+      "bike_wheel_rear": 2913819265,
+      "ride_helmet_type": 3707571564
+    },
+    {
+      "country_code": 250,
+      "is_male": true,
+      "first_name": "Warren",
+      "last_name": "Barguil (ARK)",
+      "ride_jersey": 598687666,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 250,
+      "is_male": true,
+      "first_name": "Hugo",
+      "last_name": "Hofstetter (ARK)",
+      "ride_jersey": 598687666,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 56,
+      "is_male": true,
+      "first_name": "Sep",
+      "last_name": "Vanmarcke (IPT)",
+      "ride_jersey": 552170906,
+      "bike_frame": 3469325930
+    },
+    {
+      "country_code": 124,
+      "is_male": true,
+      "first_name": "Derek",
+      "last_name": "Gee (IPT)",
+      "ride_jersey": 552170906,
+      "bike_frame": 3469325930
+    },
+    {
+      "country_code": 528,
+      "is_male": true,
+      "first_name": "Marijn",
+      "last_name": "van den Berg (EFE)",
+      "ride_jersey": 2349035663,
+      "bike_frame": 2005280203,
+      "bike_wheel_front": 1791179228,
+      "bike_wheel_rear": 2913819265,
+      "ride_helmet_type": 3707571564
+    },
+    {
+      "country_code": 380,
+      "is_male": true,
+      "first_name": "Andrea",
+      "last_name": "Bagioli (SOQ)",
+      "ride_jersey": 2906189156,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 2181416413,
+      "bike_wheel_rear": 3548735686,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 703,
+      "is_male": true,
+      "first_name": "Peter",
+      "last_name": "Sagan (TEN)",
+      "ride_jersey": 2092402045,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 826,
+      "is_male": true,
+      "first_name": "Max",
+      "last_name": "Poole (DSM)",
+      "ride_jersey": 2695025247,
+      "bike_frame": 1315158373,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 56,
+      "is_male": true,
+      "first_name": "Dylan",
+      "last_name": "Teuns (IPT)",
+      "ride_jersey": 552170906,
+      "bike_frame": 3469325930
+    },
+    {
+      "country_code": 578,
+      "is_male": true,
+      "first_name": "Rasmus",
+      "last_name": "Tiller (UXT)",
+      "ride_jersey": 1756517729
+    },
+    {
+      "country_code": 250,
+      "is_male": true,
+      "first_name": "Rudy",
+      "last_name": "Molard (GFC)",
+      "ride_jersey": 2814449542,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 3912703277
+    },
+    {
+      "country_code": 36,
+      "is_male": true,
+      "first_name": "Jack",
+      "last_name": "Haig (TBV)",
+      "ride_jersey": 2155858980,
+      "bike_frame": 3033010663
+    },
+    {
+      "country_code": 124,
+      "is_male": true,
+      "first_name": "Hugo",
+      "last_name": "Houle (IPT)",
+      "ride_jersey": 552170906,
+      "bike_frame": 3469325930
+    },
+    {
+      "country_code": 170,
+      "is_male": true,
+      "first_name": "Iv\u00e1n Ramiro",
+      "last_name": "Sosa (MOV)",
+      "ride_jersey": 1842355135,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 4241132751
+    },
+    {
+      "country_code": 276,
+      "is_male": true,
+      "first_name": "Georg",
+      "last_name": "Zimmermann (ICW)",
+      "ride_jersey": 88121645,
+      "bike_frame": 1767548815,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 442,
+      "is_male": true,
+      "first_name": "Bob",
+      "last_name": "Jungels (BOH)",
+      "ride_jersey": 321508751,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 2181416413,
+      "bike_wheel_rear": 3548735686,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 380,
+      "is_male": true,
+      "first_name": "Matteo",
+      "last_name": "Sobrero (JAY)",
+      "ride_jersey": 493134166,
+      "bike_frame": 103914490,
+      "bike_wheel_front": 1497226614,
+      "bike_wheel_rear": 1347687916
+    },
+    {
+      "country_code": 348,
+      "is_male": true,
+      "first_name": "Attila",
+      "last_name": "Valter (TJV)",
+      "ride_jersey": 88214615,
+      "bike_frame": 106535518,
+      "bike_wheel_front": 635220876,
+      "bike_wheel_rear": 1842698274,
+      "ride_helmet_type": 1292376041
+    },
+    {
+      "country_code": 528,
+      "is_male": true,
+      "first_name": "Wilco",
+      "last_name": "Kelderman (TJV)",
+      "ride_jersey": 88214615,
+      "bike_frame": 106535518,
+      "bike_wheel_front": 635220876,
+      "bike_wheel_rear": 1842698274,
+      "ride_helmet_type": 1292376041
+    },
+    {
+      "country_code": 36,
+      "is_male": true,
+      "first_name": "Simon",
+      "last_name": "Clarke (IPT)",
+      "ride_jersey": 552170906,
+      "bike_frame": 3469325930
+    },
+    {
+      "country_code": 724,
+      "is_male": true,
+      "first_name": "Luis Le\u00f3n",
+      "last_name": "S\u00e1nchez (AST)",
+      "ride_jersey": 1969335676,
+      "bike_frame": 2360271970,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 9439966
+    },
+    {
+      "country_code": 380,
+      "is_male": true,
+      "first_name": "Lorenzo",
+      "last_name": "Fortunato (EOK)",
+      "ride_jersey": 2422819298,
+      "bike_wheel_front": 2223270801,
+      "bike_wheel_rear": 3835575171
+    },
+    {
+      "country_code": 528,
+      "is_male": true,
+      "first_name": "Arvid",
+      "last_name": "de Kleijn",
+      "ride_jersey": 3612223524
+    },
+    {
+      "country_code": 528,
+      "is_male": true,
+      "first_name": "Dylan",
+      "last_name": "van Baarle (TJV)",
+      "ride_jersey": 88214615,
+      "bike_frame": 106535518,
+      "bike_wheel_front": 635220876,
+      "bike_wheel_rear": 1842698274,
+      "ride_helmet_type": 1292376041
+    },
+    {
+      "country_code": 380,
+      "is_male": true,
+      "first_name": "Giacomo",
+      "last_name": "Nizzolo (IPT)",
+      "ride_jersey": 552170906,
+      "bike_frame": 3469325930
+    },
+    {
+      "country_code": 56,
+      "is_male": true,
+      "first_name": "Mauri",
+      "last_name": "Vansevenant (SOQ)",
+      "ride_jersey": 2906189156,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 2181416413,
+      "bike_wheel_rear": 3548735686,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 170,
+      "is_male": true,
+      "first_name": "Esteban",
+      "last_name": "Chaves (EFE)",
+      "ride_jersey": 2349035663,
+      "bike_frame": 2005280203,
+      "bike_wheel_front": 1791179228,
+      "bike_wheel_rear": 2913819265,
+      "ride_helmet_type": 3707571564
+    },
+    {
+      "country_code": 170,
+      "is_male": true,
+      "first_name": "Fernando",
+      "last_name": "Gaviria (MOV)",
+      "ride_jersey": 1842355135,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 4241132751
+    },
+    {
+      "country_code": 56,
+      "is_male": true,
+      "first_name": "Jasper",
+      "last_name": "Stuyven (TRK)",
+      "ride_jersey": 2140478849,
+      "bike_frame": 4129467727,
+      "bike_wheel_front": 702195190,
+      "bike_wheel_rear": 3594144634
+    },
+    {
+      "country_code": 250,
+      "is_male": true,
+      "first_name": "Lenny",
+      "last_name": "Martinez (GFC)",
+      "ride_jersey": 2814449542,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 3912703277
+    },
+    {
+      "country_code": 826,
+      "is_male": true,
+      "first_name": "Ethan",
+      "last_name": "Vernon (SOQ)",
+      "ride_jersey": 2906189156,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 2181416413,
+      "bike_wheel_rear": 3548735686,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 554,
+      "is_male": true,
+      "first_name": "George",
+      "last_name": "Bennett (UAD)",
+      "ride_jersey": 1751349769,
+      "bike_frame": 3628259811,
+      "bike_wheel_front": 2223270801,
+      "bike_wheel_rear": 3835575171
+    },
+    {
+      "country_code": 380,
+      "is_male": true,
+      "first_name": "Giovanni",
+      "last_name": "Aleotti (BOH)",
+      "ride_jersey": 321508751,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 2181416413,
+      "bike_wheel_rear": 3548735686,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 250,
+      "is_male": true,
+      "first_name": "Victor",
+      "last_name": "Lafay (COF)",
+      "ride_jersey": 927604154,
+      "bike_frame": 106535518,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 578,
+      "is_male": true,
+      "first_name": "S\u00f8ren",
+      "last_name": "W\u00e6renskjold (UXT)",
+      "ride_jersey": 1756517729
+    },
+    {
+      "country_code": 380,
+      "is_male": true,
+      "first_name": "Simone",
+      "last_name": "Consonni (COF)",
+      "ride_jersey": 927604154,
+      "bike_frame": 106535518,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 250,
+      "is_male": true,
+      "first_name": "Pierre",
+      "last_name": "Latour (TEN)",
+      "ride_jersey": 2092402045,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 380,
+      "is_male": true,
+      "first_name": "Alberto",
+      "last_name": "Dainese (DSM)",
+      "ride_jersey": 2695025247,
+      "bike_frame": 1315158373,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 724,
+      "is_male": true,
+      "first_name": "Gonzalo",
+      "last_name": "Serrano (MOV)",
+      "ride_jersey": 1842355135,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 4241132751
+    },
+    {
+      "country_code": 232,
+      "is_male": true,
+      "first_name": "Henok",
+      "last_name": "Mulubrhan (GBF)",
+      "ride_jersey": 3503002798,
+      "bike_wheel_front": 1053884173,
+      "bike_wheel_rear": 1614586487
+    },
+    {
+      "country_code": 826,
+      "is_male": true,
+      "first_name": "Mark",
+      "last_name": "Cavendish (AST)",
+      "ride_jersey": 1969335676,
+      "bike_frame": 2360271970,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 9439966
+    },
+    {
+      "country_code": 40,
+      "is_male": true,
+      "first_name": "Marco",
+      "last_name": "Haller (BOH)",
+      "ride_jersey": 321508751,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 2181416413,
+      "bike_wheel_rear": 3548735686,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 380,
+      "is_male": true,
+      "first_name": "Vincenzo",
+      "last_name": "Albanese (EOK)",
+      "ride_jersey": 2422819298,
+      "bike_wheel_front": 2223270801,
+      "bike_wheel_rear": 3835575171
+    },
+    {
+      "country_code": 36,
+      "is_male": true,
+      "first_name": "Luke",
+      "last_name": "Plapp (IGD)",
+      "ride_jersey": 542207259,
+      "bike_frame": 4208139356,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 3438211262
+    },
+    {
+      "country_code": 276,
+      "is_male": true,
+      "first_name": "Phil",
+      "last_name": "Bauhaus (TBV)",
+      "ride_jersey": 2155858980,
+      "bike_frame": 3033010663
+    },
+    {
+      "country_code": 250,
+      "is_male": true,
+      "first_name": "Cl\u00e9ment",
+      "last_name": "Berthet (ACT)",
+      "ride_jersey": 1587982785,
+      "bike_frame": 3868468027,
+      "bike_wheel_front": 1053884173,
+      "bike_wheel_rear": 1614586487
+    },
+    {
+      "country_code": 250,
+      "is_male": true,
+      "first_name": "Benjamin",
+      "last_name": "Thomas (COF)",
+      "ride_jersey": 927604154,
+      "bike_frame": 106535518,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 276,
+      "is_male": true,
+      "first_name": "Max",
+      "last_name": "Kanter (MOV)",
+      "ride_jersey": 1842355135,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 4241132751
+    },
+    {
+      "country_code": 250,
+      "is_male": true,
+      "first_name": "Matis",
+      "last_name": "Louvel (ARK)",
+      "ride_jersey": 598687666,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 56,
+      "is_male": true,
+      "first_name": "Quinten",
+      "last_name": "Hermans (ADC)",
+      "ride_jersey": 930946828,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 1387973863
+    },
+    {
+      "country_code": 250,
+      "is_male": true,
+      "first_name": "Cl\u00e9ment",
+      "last_name": "Venturini (ACT)",
+      "ride_jersey": 1587982785,
+      "bike_frame": 3868468027,
+      "bike_wheel_front": 1053884173,
+      "bike_wheel_rear": 1614586487
+    },
+    {
+      "country_code": 56,
+      "is_male": true,
+      "first_name": "Kobe",
+      "last_name": "Goossens (ICW)",
+      "ride_jersey": 88121645,
+      "bike_frame": 1767548815,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 528,
+      "is_male": true,
+      "first_name": "Sjoerd",
+      "last_name": "Bax (UAD)",
+      "ride_jersey": 1751349769,
+      "bike_frame": 3628259811,
+      "bike_wheel_front": 2223270801,
+      "bike_wheel_rear": 3835575171
+    },
+    {
+      "country_code": 250,
+      "is_male": true,
+      "first_name": "Paul",
+      "last_name": "Penho\u00ebt (GFC)",
+      "ride_jersey": 2814449542,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 3912703277
+    },
+    {
+      "country_code": 380,
+      "is_male": true,
+      "first_name": "Davide",
+      "last_name": "Formolo (UAD)",
+      "ride_jersey": 1751349769,
+      "bike_frame": 3628259811,
+      "bike_wheel_front": 2223270801,
+      "bike_wheel_rear": 3835575171
+    },
+    {
+      "country_code": 276,
+      "is_male": true,
+      "first_name": "Max",
+      "last_name": "Walscheid (COF)",
+      "ride_jersey": 927604154,
+      "bike_frame": 106535518,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 250,
+      "is_male": true,
+      "first_name": "Sandy",
+      "last_name": "Dujardin (TEN)",
+      "ride_jersey": 2092402045,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 528,
+      "is_male": true,
+      "first_name": "Mike",
+      "last_name": "Teunissen (ICW)",
+      "ride_jersey": 88121645,
+      "bike_frame": 1767548815,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 372,
+      "is_male": true,
+      "first_name": "Eddie",
+      "last_name": "Dunbar (JAY)",
+      "ride_jersey": 493134166,
+      "bike_frame": 103914490,
+      "bike_wheel_front": 1497226614,
+      "bike_wheel_rear": 1347687916
+    },
+    {
+      "country_code": 250,
+      "is_male": true,
+      "first_name": "Hugo",
+      "last_name": "Page (ICW)",
+      "ride_jersey": 88121645,
+      "bike_frame": 1767548815,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 56,
+      "is_male": true,
+      "first_name": "Sylvain",
+      "last_name": "Moniquet (LTD)",
+      "ride_jersey": 4130579852,
+      "bike_frame": 4288910569,
+      "bike_wheel_front": 346409677,
+      "bike_wheel_rear": 2049111692
+    },
+    {
+      "country_code": 276,
+      "is_male": true,
+      "first_name": "Marius",
+      "last_name": "Mayrhofer (DSM)",
+      "ride_jersey": 2695025247,
+      "bike_frame": 1315158373,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 208,
+      "is_male": true,
+      "first_name": "Mikkel",
+      "last_name": "Bjerg (UAD)",
+      "ride_jersey": 1751349769,
+      "bike_frame": 3628259811,
+      "bike_wheel_front": 2223270801,
+      "bike_wheel_rear": 3835575171
+    },
+    {
+      "country_code": 36,
+      "is_male": true,
+      "first_name": "Robert",
+      "last_name": "Stannard (ADC)",
+      "ride_jersey": 930946828,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 1387973863
+    },
+    {
+      "country_code": 724,
+      "is_male": true,
+      "first_name": "Cristi\u00e1n",
+      "last_name": "Rodr\u00edguez (ARK)",
+      "ride_jersey": 598687666,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 56,
+      "is_male": true,
+      "first_name": "Jasper",
+      "last_name": "De Buyst (LTD)",
+      "ride_jersey": 4130579852,
+      "bike_frame": 4288910569,
+      "bike_wheel_front": 346409677,
+      "bike_wheel_rear": 2049111692
+    },
+    {
+      "country_code": 578,
+      "is_male": true,
+      "first_name": "Torstein",
+      "last_name": "Tr\u00e6en (UXT)",
+      "ride_jersey": 1756517729
+    },
+    {
+      "country_code": 380,
+      "is_male": true,
+      "first_name": "Andrea",
+      "last_name": "Pasqualon (TBV)",
+      "ride_jersey": 2155858980,
+      "bike_frame": 3033010663
+    },
+    {
+      "country_code": 276,
+      "is_male": true,
+      "first_name": "Nils",
+      "last_name": "Politt (BOH)",
+      "ride_jersey": 321508751,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 2181416413,
+      "bike_wheel_rear": 3548735686,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 250,
+      "is_male": true,
+      "first_name": "Anthony",
+      "last_name": "Perez (COF)",
+      "ride_jersey": 927604154,
+      "bike_frame": 106535518,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 380,
+      "is_male": true,
+      "first_name": "Stefano",
+      "last_name": "Oldani (ADC)",
+      "ride_jersey": 930946828,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 1387973863
+    },
+    {
+      "country_code": 724,
+      "is_male": true,
+      "first_name": "Roger",
+      "last_name": "Adri\u00e0",
+      "ride_jersey": 4108702181
+    },
+    {
+      "country_code": 578,
+      "is_male": true,
+      "first_name": "Edvald",
+      "last_name": "Boasson Hagen (TEN)",
+      "ride_jersey": 2092402045,
+      "bike_frame": 935373427,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 380,
+      "is_male": true,
+      "first_name": "Samuele",
+      "last_name": "Battistella (AST)",
+      "ride_jersey": 1969335676,
+      "bike_frame": 2360271970,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091,
+      "ride_helmet_type": 9439966
+    },
+    {
+      "country_code": 620,
+      "is_male": false,
+      "first_name": "Maria",
+      "last_name": "Martins (FED)",
+      "ride_jersey": 2906189156,
+      "bike_frame": 1520594784
+    },
+    {
+      "country_code": 380,
+      "is_male": false,
+      "first_name": "Katia",
+      "last_name": "Ragusa (LIV)",
+      "ride_jersey": 3932519699,
+      "bike_frame": 3495124341
+    },
+    {
+      "country_code": 380,
+      "is_male": false,
+      "first_name": "Silvia",
+      "last_name": "Zanardi",
+      "ride_jersey": 1624079531
+    },
+    {
+      "country_code": 724,
+      "is_male": false,
+      "first_name": "Sheyla",
+      "last_name": "Guti\u00e9rrez (MOV)",
+      "ride_jersey": 1842355135,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 4241132751
+    },
+    {
+      "country_code": 36,
+      "is_male": false,
+      "first_name": "Rachel",
+      "last_name": "Neylan (COF)",
+      "ride_jersey": 4191972189
+    },
+    {
+      "country_code": 36,
+      "is_male": false,
+      "first_name": "Brodie",
+      "last_name": "Chapman (TRK)",
+      "ride_jersey": 1154847422,
+      "bike_frame": 4129467727,
+      "bike_wheel_front": 702195190,
+      "bike_wheel_rear": 3594144634
+    },
+    {
+      "country_code": 276,
+      "is_male": false,
+      "first_name": "Antonia",
+      "last_name": "Niedermaier (CSR)",
+      "ride_jersey": 3970245639,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 3346861673
+    },
+    {
+      "country_code": 250,
+      "is_male": false,
+      "first_name": "Victoire",
+      "last_name": "Berteau (COF)",
+      "ride_jersey": 4191972189
+    },
+    {
+      "country_code": 250,
+      "is_male": false,
+      "first_name": "Victorie",
+      "last_name": "Guilman (FST)",
+      "ride_jersey": 3360845221,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Eva",
+      "last_name": "van Agt (JVW)",
+      "ride_jersey": 1541349594,
+      "bike_frame": 106535518,
+      "bike_wheel_front": 635220876,
+      "bike_wheel_rear": 1842698274,
+      "ride_helmet_type": 1292376041
+    },
+    {
+      "country_code": 705,
+      "is_male": false,
+      "first_name": "Ur\u0161ka",
+      "last_name": "Pintar",
+      "ride_jersey": 2050259031
+    },
+    {
+      "country_code": 578,
+      "is_male": false,
+      "first_name": "Susanne",
+      "last_name": "Andersen (UXT)",
+      "ride_jersey": 1756517729
+    },
+    {
+      "country_code": 380,
+      "is_male": false,
+      "first_name": "Barbara",
+      "last_name": "Guarischi (SDW)",
+      "ride_jersey": 1494272741,
+      "bike_frame": 935373427,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 380,
+      "is_male": false,
+      "first_name": "Alice Maria",
+      "last_name": "Arzuffi (WNT)",
+      "ride_jersey": 97975537
+    },
+    {
+      "country_code": 705,
+      "is_male": false,
+      "first_name": "Eugenia",
+      "last_name": "Bujak (UAD)",
+      "ride_jersey": 1751349769,
+      "bike_frame": 3628259811,
+      "bike_wheel_front": 2223270801,
+      "bike_wheel_rear": 3835575171
+    },
+    {
+      "country_code": 40,
+      "is_male": false,
+      "first_name": "Kathrin",
+      "last_name": "Schweinberger (WNT)",
+      "ride_jersey": 97975537
+    },
+    {
+      "country_code": 554,
+      "is_male": false,
+      "first_name": "Henrietta",
+      "last_name": "Christie (HPW)",
+      "ride_jersey": 854534852,
+      "bike_frame": 3002729519
+    },
+    {
+      "country_code": 752,
+      "is_male": false,
+      "first_name": "Nathalie",
+      "last_name": "Eklund (CGS)",
+      "ride_jersey": 552170906,
+      "bike_frame": 3469325930,
+      "ride_helmet_type": 9439966
+    },
+    {
+      "country_code": 36,
+      "is_male": false,
+      "first_name": "Georgia",
+      "last_name": "Baker (JAY)",
+      "ride_jersey": 493134166,
+      "bike_frame": 103914490,
+      "bike_wheel_front": 1497226614,
+      "bike_wheel_rear": 1347687916
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Marjolein",
+      "last_name": "van 't Geloof (HPW)",
+      "ride_jersey": 854534852,
+      "bike_frame": 3002729519
+    },
+    {
+      "country_code": 250,
+      "is_male": false,
+      "first_name": "Marie",
+      "last_name": "Le Net (FST)",
+      "ride_jersey": 3360845221,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 554,
+      "is_male": false,
+      "first_name": "Mikayla",
+      "last_name": "Harvey (UAD)",
+      "ride_jersey": 1751349769,
+      "bike_frame": 3628259811,
+      "bike_wheel_front": 2223270801,
+      "bike_wheel_rear": 3835575171
+    },
+    {
+      "country_code": 380,
+      "is_male": false,
+      "first_name": "Martina",
+      "last_name": "Fidanza (WNT)",
+      "ride_jersey": 97975537
+    },
+    {
+      "country_code": 246,
+      "is_male": false,
+      "first_name": "Lotta",
+      "last_name": "Henttala (AGS)",
+      "ride_jersey": 3103938066,
+      "bike_frame": 935373427,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 756,
+      "is_male": false,
+      "first_name": "Noemi",
+      "last_name": "R\u00fcegg (JVW)",
+      "ride_jersey": 1541349594,
+      "bike_frame": 106535518,
+      "bike_wheel_front": 635220876,
+      "bike_wheel_rear": 1842698274,
+      "ride_helmet_type": 1292376041
+    },
+    {
+      "country_code": 752,
+      "is_male": false,
+      "first_name": "Emilia",
+      "last_name": "Fahlin (FST)",
+      "ride_jersey": 3360845221,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 56,
+      "is_male": false,
+      "first_name": "Valerie",
+      "last_name": "Demey (LIV)",
+      "ride_jersey": 3932519699,
+      "bike_frame": 3495124341
+    },
+    {
+      "country_code": 56,
+      "is_male": false,
+      "first_name": "Lotte",
+      "last_name": "Claes",
+      "ride_jersey": 1939003542
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Mareille",
+      "last_name": "Meijering (MOV)",
+      "ride_jersey": 1842355135,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 4241132751
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Pauliena",
+      "last_name": "Rooijakkers (CSR)",
+      "ride_jersey": 3970245639,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 3346861673
+    },
+    {
+      "country_code": 840,
+      "is_male": false,
+      "first_name": "Skylar",
+      "last_name": "Schneider (LLA)",
+      "ride_jersey": 2330819669
+    },
+    {
+      "country_code": 250,
+      "is_male": false,
+      "first_name": "Roxane",
+      "last_name": "Fournier (AUB)",
+      "ride_jersey": 3305515323,
+      "bike_frame": 2005280203,
+      "bike_wheel_front": 897949453,
+      "bike_wheel_rear": 4001596344
+    },
+    {
+      "country_code": 56,
+      "is_male": false,
+      "first_name": "Jesse",
+      "last_name": "Vandenbulcke (HPW)",
+      "ride_jersey": 854534852,
+      "bike_frame": 3002729519
+    },
+    {
+      "country_code": 380,
+      "is_male": false,
+      "first_name": "Martina",
+      "last_name": "Alzini (COF)",
+      "ride_jersey": 4191972189
+    },
+    {
+      "country_code": 36,
+      "is_male": false,
+      "first_name": "Lauretta",
+      "last_name": "Hanson (TRK)",
+      "ride_jersey": 1154847422,
+      "bike_frame": 4129467727,
+      "bike_wheel_front": 702195190,
+      "bike_wheel_rear": 3594144634
+    },
+    {
+      "country_code": 704,
+      "is_male": false,
+      "first_name": "Th\u1ecb Th\u1eadt",
+      "last_name": "Nguy\u1ec5n (CGS)",
+      "ride_jersey": 552170906,
+      "bike_frame": 3469325930,
+      "ride_helmet_type": 9439966
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Kirstie",
+      "last_name": "van Haaften (PHV)",
+      "ride_jersey": 4102459937
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Teuntje",
+      "last_name": "Beekhuis (JVW)",
+      "ride_jersey": 1541349594,
+      "bike_frame": 106535518,
+      "bike_wheel_front": 635220876,
+      "bike_wheel_rear": 1842698274,
+      "ride_helmet_type": 1292376041
+    },
+    {
+      "country_code": 170,
+      "is_male": false,
+      "first_name": "Paula Andrea",
+      "last_name": "Pati\u00f1o (MOV)",
+      "ride_jersey": 1842355135,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 4241132751
+    },
+    {
+      "country_code": 752,
+      "is_male": false,
+      "first_name": "Julia",
+      "last_name": "Borgstr\u00f6m (AGS)",
+      "ride_jersey": 3103938066,
+      "bike_frame": 935373427,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 380,
+      "is_male": false,
+      "first_name": "Letizia",
+      "last_name": "Borghesi (TIB)",
+      "ride_jersey": 2795352821,
+      "bike_frame": 2005280203,
+      "ride_helmet_type": 3707571564
+    },
+    {
+      "country_code": 578,
+      "is_male": false,
+      "first_name": "Mari Hole",
+      "last_name": "Mohr",
+      "ride_jersey": 493134166
+    },
+    {
+      "country_code": 578,
+      "is_male": false,
+      "first_name": "Stine",
+      "last_name": "Borgli (FST)",
+      "ride_jersey": 3360845221,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 688,
+      "is_male": false,
+      "first_name": "Jelena",
+      "last_name": "Eri\u0107 (MOV)",
+      "ride_jersey": 1842355135,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 4241132751
+    },
+    {
+      "country_code": 372,
+      "is_male": false,
+      "first_name": "Megan",
+      "last_name": "Armitage (ARK)",
+      "ride_jersey": 1128201030
+    },
+    {
+      "country_code": 250,
+      "is_male": false,
+      "first_name": "Margaux",
+      "last_name": "Vigie (DRP)",
+      "ride_jersey": 3553917933
+    },
+    {
+      "country_code": 203,
+      "is_male": false,
+      "first_name": "Tereza",
+      "last_name": "Neumanova (LIV)",
+      "ride_jersey": 3932519699,
+      "bike_frame": 3495124341
+    },
+    {
+      "country_code": 380,
+      "is_male": false,
+      "first_name": "Laura",
+      "last_name": "Tomasi (UAD)",
+      "ride_jersey": 1751349769,
+      "bike_frame": 3628259811,
+      "bike_wheel_front": 2223270801,
+      "bike_wheel_rear": 3835575171
+    },
+    {
+      "country_code": 804,
+      "is_male": false,
+      "first_name": "Yuliia",
+      "last_name": "Biriukova (UDT)",
+      "ride_jersey": 1751349769
+    },
+    {
+      "country_code": 380,
+      "is_male": false,
+      "first_name": "Letizia",
+      "last_name": "Paternoster (JAY)",
+      "ride_jersey": 493134166,
+      "bike_frame": 103914490,
+      "bike_wheel_front": 1497226614,
+      "bike_wheel_rear": 1347687916
+    },
+    {
+      "country_code": 276,
+      "is_male": false,
+      "first_name": "Franziska",
+      "last_name": "Koch (DSM)",
+      "ride_jersey": 2695025247,
+      "bike_frame": 1315158373,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 208,
+      "is_male": false,
+      "first_name": "Julie",
+      "last_name": "Norman Leth (UXT)",
+      "ride_jersey": 1756517729
+    },
+    {
+      "country_code": 250,
+      "is_male": false,
+      "first_name": "Valentine",
+      "last_name": "Fortin (COF)",
+      "ride_jersey": 4191972189
+    },
+    {
+      "country_code": 860,
+      "is_male": false,
+      "first_name": "Olga",
+      "last_name": "Zabelinskaya",
+      "ride_jersey": 1176516281
+    },
+    {
+      "country_code": 40,
+      "is_male": false,
+      "first_name": "Anna",
+      "last_name": "Kiesenhofer (CGS)",
+      "ride_jersey": 552170906,
+      "bike_frame": 3469325930,
+      "ride_helmet_type": 9439966
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Danique",
+      "last_name": "Braam",
+      "ride_jersey": 1176516281
+    },
+    {
+      "country_code": 826,
+      "is_male": false,
+      "first_name": "Josie",
+      "last_name": "Nelson",
+      "ride_jersey": 493134166
+    },
+    {
+      "country_code": 250,
+      "is_male": false,
+      "first_name": "Morgane",
+      "last_name": "Coston (COF)",
+      "ride_jersey": 4191972189
+    },
+    {
+      "country_code": 112,
+      "is_male": false,
+      "first_name": "Alena",
+      "last_name": "Amialiusik (UAD)",
+      "ride_jersey": 1751349769,
+      "bike_frame": 3628259811,
+      "bike_wheel_front": 2223270801,
+      "bike_wheel_rear": 3835575171
+    },
+    {
+      "country_code": 705,
+      "is_male": false,
+      "first_name": "\u0160pela",
+      "last_name": "Kern (COF)",
+      "ride_jersey": 4191972189
+    },
+    {
+      "country_code": 826,
+      "is_male": false,
+      "first_name": "Elinor",
+      "last_name": "Barker (UXT)",
+      "ride_jersey": 1756517729
+    },
+    {
+      "country_code": 250,
+      "is_male": false,
+      "first_name": "Dilyxine",
+      "last_name": "Miermont (AUB)",
+      "ride_jersey": 3305515323,
+      "bike_frame": 2005280203,
+      "bike_wheel_front": 897949453,
+      "bike_wheel_rear": 4001596344
+    },
+    {
+      "country_code": 56,
+      "is_male": false,
+      "first_name": "Katrijn",
+      "last_name": "de Clercq (LDL)",
+      "ride_jersey": 1423767803
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Elise",
+      "last_name": "Uijen (DSM)",
+      "ride_jersey": 2695025247,
+      "bike_frame": 1315158373,
+      "bike_wheel_front": 1742598126,
+      "bike_wheel_rear": 3725678091
+    },
+    {
+      "country_code": 826,
+      "is_male": false,
+      "first_name": "Elizabeth",
+      "last_name": "Holden (UAD)",
+      "ride_jersey": 1751349769,
+      "bike_frame": 3628259811,
+      "bike_wheel_front": 2223270801,
+      "bike_wheel_rear": 3835575171
+    },
+    {
+      "country_code": 860,
+      "is_male": false,
+      "first_name": "Yanina",
+      "last_name": "Kuskova",
+      "ride_jersey": 1176516281
+    },
+    {
+      "country_code": 840,
+      "is_male": false,
+      "first_name": "Heidi",
+      "last_name": "Franz",
+      "ride_jersey": 1236323268
+    },
+    {
+      "country_code": 756,
+      "is_male": false,
+      "first_name": "Linda",
+      "last_name": "Zanetti (UDT)",
+      "ride_jersey": 1751349769
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Lonneke",
+      "last_name": "Uneken (SDW)",
+      "ride_jersey": 1494272741,
+      "bike_frame": 935373427,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 616,
+      "is_male": false,
+      "first_name": "Marta",
+      "last_name": "Jaskulska (LIV)",
+      "ride_jersey": 3932519699,
+      "bike_frame": 3495124341
+    },
+    {
+      "country_code": 152,
+      "is_male": false,
+      "first_name": "Aranza Valentina",
+      "last_name": "Villal\u00f3n",
+      "ride_jersey": 1851027443
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Quinty",
+      "last_name": "Ton (LIV)",
+      "ride_jersey": 3932519699,
+      "bike_frame": 3495124341
+    },
+    {
+      "country_code": 36,
+      "is_male": false,
+      "first_name": "Georgie",
+      "last_name": "Howe (JAY)",
+      "ride_jersey": 493134166,
+      "bike_frame": 103914490,
+      "bike_wheel_front": 1497226614,
+      "bike_wheel_rear": 1347687916
+    },
+    {
+      "country_code": 124,
+      "is_male": false,
+      "first_name": "Emilie",
+      "last_name": "Fortin",
+      "ride_jersey": 1040478737
+    },
+    {
+      "country_code": 380,
+      "is_male": false,
+      "first_name": "Gaia",
+      "last_name": "Masetti (AGS)",
+      "ride_jersey": 3103938066,
+      "bike_frame": 935373427,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Myl\u00e8ne",
+      "last_name": "de Zoete (WNT)",
+      "ride_jersey": 97975537
+    },
+    {
+      "country_code": 840,
+      "is_male": false,
+      "first_name": "Lily",
+      "last_name": "Williams (HPW)",
+      "ride_jersey": 854534852,
+      "bike_frame": 3002729519
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Lieke",
+      "last_name": "Nooijen (PHV)",
+      "ride_jersey": 4102459937
+    },
+    {
+      "country_code": 826,
+      "is_male": false,
+      "first_name": "Natalie",
+      "last_name": "Grinczer",
+      "ride_jersey": 1939003542
+    },
+    {
+      "country_code": 170,
+      "is_male": false,
+      "first_name": "Lina Marcela",
+      "last_name": "Hern\u00e1ndez",
+      "ride_jersey": 1617481982
+    },
+    {
+      "country_code": 724,
+      "is_male": false,
+      "first_name": "Iurani",
+      "last_name": "Blanco",
+      "ride_jersey": 1277618322
+    },
+    {
+      "country_code": 170,
+      "is_male": false,
+      "first_name": "Diana",
+      "last_name": "Pe\u00f1uela",
+      "ride_jersey": 1236323268
+    },
+    {
+      "country_code": 203,
+      "is_male": false,
+      "first_name": "Krist\u00fdna",
+      "last_name": "Burlov\u00e1 (LDL)",
+      "ride_jersey": 1423767803
+    },
+    {
+      "country_code": 276,
+      "is_male": false,
+      "first_name": "Lea Lin",
+      "last_name": "Teutenberg (WNT)",
+      "ride_jersey": 97975537
+    },
+    {
+      "country_code": 380,
+      "is_male": false,
+      "first_name": "Elena",
+      "last_name": "Cecchini (SDW)",
+      "ride_jersey": 1494272741,
+      "bike_frame": 935373427,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 36,
+      "is_male": false,
+      "first_name": "Sophie",
+      "last_name": "Edwards",
+      "ride_jersey": 920337189
+    },
+    {
+      "country_code": 554,
+      "is_male": false,
+      "first_name": "Ella",
+      "last_name": "Harris (DRP)",
+      "ride_jersey": 3553917933
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Nicole",
+      "last_name": "Steigenga (AGS)",
+      "ride_jersey": 3103938066,
+      "bike_frame": 935373427,
+      "ride_helmet_type": 3109903878
+    },
+    {
+      "country_code": 196,
+      "is_male": false,
+      "first_name": "Antri",
+      "last_name": "Christoforou (HPW)",
+      "ride_jersey": 854534852,
+      "bike_frame": 3002729519
+    },
+    {
+      "country_code": 380,
+      "is_male": false,
+      "first_name": "Elena",
+      "last_name": "Pirrone (CGS)",
+      "ride_jersey": 552170906,
+      "bike_frame": 3469325930,
+      "ride_helmet_type": 9439966
+    },
+    {
+      "country_code": 380,
+      "is_male": false,
+      "first_name": "Debora",
+      "last_name": "Silvestri",
+      "ride_jersey": 1277618322
+    },
+    {
+      "country_code": 840,
+      "is_male": false,
+      "first_name": "Lauren",
+      "last_name": "Stephens (TIB)",
+      "ride_jersey": 2795352821,
+      "bike_frame": 2005280203,
+      "ride_helmet_type": 3707571564
+    },
+    {
+      "country_code": 124,
+      "is_male": false,
+      "first_name": "Maggie",
+      "last_name": "Coles-Lyster (CGS)",
+      "ride_jersey": 552170906,
+      "bike_frame": 3469325930,
+      "ride_helmet_type": 9439966
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Aniek",
+      "last_name": "van Alphen (FDD)",
+      "ride_jersey": 2906189156
+    },
+    {
+      "country_code": 528,
+      "is_male": false,
+      "first_name": "Evy",
+      "last_name": "Kuijpers (FED)",
+      "ride_jersey": 2906189156,
+      "bike_frame": 1520594784
+    },
+    {
+      "country_code": 724,
+      "is_male": false,
+      "first_name": "Sara",
+      "last_name": "Mart\u00edn (MOV)",
+      "ride_jersey": 1842355135,
+      "bike_frame": 1520594784,
+      "bike_wheel_front": 613983807,
+      "bike_wheel_rear": 4183014640,
+      "ride_helmet_type": 4241132751
+    },
+    {
+      "country_code": 276,
+      "is_male": false,
+      "first_name": "Mieke",
+      "last_name": "Kr\u00f6ger (HPW)",
+      "ride_jersey": 854534852,
+      "bike_frame": 3002729519
+    }
+  ]
+}
