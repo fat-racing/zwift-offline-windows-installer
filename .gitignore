@@ -1,0 +1,21 @@
+# Build output
+/dist/
+*.log
+
+# Payloads copied from an upstream zoffline build
+/installer/payload/zoffline.exe
+/installer/payload/storage/bots/
+/installer/payload/storage/robopacers/
+
+# Local user data must never be committed
+/installer/payload/storage/[0-9]*/
+**/strava4_session.txt
+**/intervals_credentials.txt
+**/trainingpeaks_bridge.txt
+**/zwift_credentials.txt
+
+# Editor and operating-system files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
