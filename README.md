@@ -1,6 +1,6 @@
 # Zwift Offline One-Click Setup
 
-This package installs a clean local Zwift Offline server for Windows. It does not contain another person's profile, credentials, activity history, integration tokens, or local progress.
+A free and open-source Windows setup for running the official Zwift client locally with zoffline. No active Zwift subscription is required for local offline use, and the package contains no personal profiles, credentials, activity history, or integration tokens.
 
 ## Requirements
 
